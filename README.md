@@ -20,6 +20,18 @@ This WebApp was developed in collaboration with my friend **Sanidhya Gupta**, wh
 ![Screenshot 2024-12-23 230443](https://github.com/user-attachments/assets/e53e5936-947f-4702-800a-8ebcdcf162e6)
 ![Screenshot 2024-12-23 230503](https://github.com/user-attachments/assets/91cf48d1-3197-4a3d-8814-65aed31060d9)
 
+## Dependencies
+
+### ReactJS
+- The project uses **Vite** for setting up the ReactJS environment.  
+  To create the project:  
+  ```bash
+  npm create vite@latest
+  npm install
+  ```
+- NPM Packages Used : `axios`, `react-router-dom`
+- TailwindCSS : https://tailwindcss.com/docs/installation
+
 ## Architecture Overview
 
 This WebApp follows a request-response API architecture to facilitate communication with the server through APIs. The server is backed by a database that stores information about movies, reviews, and user details. It also handles fetching movie details from the external OMDB API, providing the data in JSON format.
