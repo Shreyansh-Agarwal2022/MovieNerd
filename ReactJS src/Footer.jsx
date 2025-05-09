@@ -6,7 +6,7 @@ function Footer() {
                 <div className = "w-full flex flex-col space-y-[20px] sm:space-y-[30px] py-[20px]">
                     <h1 className = "font-bold text-2xl sm:text-3xl m-auto drop-shadow-red">ISDL Project</h1>
                     <h1 className = "font-semibold text-xl sm:text-2xl m-auto">Made By</h1>
-                    <h1 className = "font-medium text-base sm:text-lg m-auto">Kanishk - Laukik - Sanidhya - Shreyansh</h1>
+                    <h1 className = "font-medium text-base sm:text-lg m-auto">Sanidhya - Shreyansh</h1>
                 </div>
             </div>
         </>
