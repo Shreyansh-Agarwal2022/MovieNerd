@@ -20,7 +20,7 @@ function Search() {
                 <input
                     type = "text"
                     value = {result}
-                    className = "w-[80vw] sm:w-[50vw] mx-auto text-black px-[20px] py-[6px] sm:py-[10px] text-lg text-center font-semibold"
+                    className = "w-[80vw] sm:w-[50vw] mx-auto text-black px-[20px] py-[6px] sm:py-[10px] text-lg text-center font-semibold bg-white"
                     placeholder="Type Movie Name"
                     onChange = {handleInputChange}
                 />
